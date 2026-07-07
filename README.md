@@ -1,4 +1,4 @@
-## student at RMIT
+## just do it 
 
 <!--
 **itsharshithaa/itsharshithaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
